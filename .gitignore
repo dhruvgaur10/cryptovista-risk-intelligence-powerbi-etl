@@ -1,0 +1,11 @@
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project docs kept local, not published
+VIDEO_SCRIPT.md
+CryptoVista_Project_Reference.docx
